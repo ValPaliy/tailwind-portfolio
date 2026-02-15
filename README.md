@@ -13,14 +13,15 @@ A personal portfolio website built with Tailwind CSS (CDN).
 
 ### Prerequisites
 
-- Node.js (for development server)
-- npm
+- Node.js
+- live-server (installed globally)
 
 ### Installation
 
+Install live-server globally if not already installed:
+
 ```bash
-cd tailwind-portfolio
-npm install
+npm install -g live-server
 ```
 
 ### Development
@@ -28,7 +29,7 @@ npm install
 Start the local development server:
 
 ```bash
-npm start
+live-server --port=3000
 ```
 
 The site will be available at http://localhost:3000
