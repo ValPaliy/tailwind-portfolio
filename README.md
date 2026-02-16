@@ -85,6 +85,10 @@ tailwind-portfolio/
 - Vanilla JavaScript
 - live-server (for local development)
 
+## Author
+
+- **Val Paliy** - [https://valticus.pro](https://valticus.pro)
+
 ## License
 
 MIT
